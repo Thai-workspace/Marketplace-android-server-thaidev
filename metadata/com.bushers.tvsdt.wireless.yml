@@ -1,9 +1,9 @@
 AuthorName: 'Bushers Electronics'
 Categories:
-- fdroid
+- TV
 CurrentVersionCode: 2147483647
-IssueTracker: ''
+IssueTracker: 'https://github.com/busherscom/tvsdtw-android/issues'
 Name: TVSDT Wireless
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: 'https://github.com/busherscom/tvsdtw-android'
+Summary: 'TV System Debugging Tool Wireless for Android Devices '
+WebSite: 'https://bushers.com'

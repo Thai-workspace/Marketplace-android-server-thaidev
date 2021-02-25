@@ -1,9 +1,9 @@
 AuthorName: 'Bushers Electronics'
 Categories:
-- fdroid
+- TV
 CurrentVersionCode: 2147483647
-IssueTracker: ''
+IssueTracker: 'https://github.com/busherscom/tvsdt-android/issues'
 Name: BUSHERS TVSDT
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: 'https://github.com/busherscom/tvsdt-android'
+Summary: 'TV System Debugging Tool for Android devices '
+WebSite: 'https://bushers.com'
